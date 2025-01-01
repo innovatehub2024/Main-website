@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Main-website/static/css/main.991edcdc.css",
-    "main.js": "/Main-website/static/js/main.e9a39c53.js",
+    "main.css": "/Main-website/static/css/main.f01e4e0a.css",
+    "main.js": "/Main-website/static/js/main.50fe9cfe.js",
     "static/js/453.084bcdaf.chunk.js": "/Main-website/static/js/453.084bcdaf.chunk.js",
     "static/media/robohand.jpg": "/Main-website/static/media/robohand.111d8dbbdc29c91a7b21.jpg",
     "static/media/4.jpg": "/Main-website/static/media/4.dc3fbe2d40497cf1572d.jpg",
@@ -24,12 +24,12 @@
     "static/media/slick.ttf": "/Main-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Main-website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Main-website/index.html",
-    "main.991edcdc.css.map": "/Main-website/static/css/main.991edcdc.css.map",
-    "main.e9a39c53.js.map": "/Main-website/static/js/main.e9a39c53.js.map",
+    "main.f01e4e0a.css.map": "/Main-website/static/css/main.f01e4e0a.css.map",
+    "main.50fe9cfe.js.map": "/Main-website/static/js/main.50fe9cfe.js.map",
     "453.084bcdaf.chunk.js.map": "/Main-website/static/js/453.084bcdaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.991edcdc.css",
-    "static/js/main.e9a39c53.js"
+    "static/css/main.f01e4e0a.css",
+    "static/js/main.50fe9cfe.js"
   ]
 }
